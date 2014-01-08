@@ -68,3 +68,7 @@ knowledge of the balanced-dashboard application.
 7. Commit your changes (`git commit -am 'Add some feature'`)
 8. Push to the branch (`git push origin my-new-feature`)
 9. Create new [pull request](https://help.github.com/articles/using-pull-requests)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mjallday/balanced-dashboard/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
